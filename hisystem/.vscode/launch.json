@@ -1,0 +1,19 @@
+{
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HisystemApplication",
+            "request": "launch",
+            "mainClass": "com.xgs.hisystem.HisystemApplication",
+            "projectName": "hisystem"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HisystemApplication",
+            "request": "launch",
+            "mainClass": "com.mine.hisystem.HisystemApplication",
+            "projectName": "hisystem"
+        }
+    ]
+}
